@@ -1,3 +1,4 @@
 .idea/
 ambiente/
 db.sqlite3
+*.pyc
