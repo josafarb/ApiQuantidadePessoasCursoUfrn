@@ -5,7 +5,7 @@ djangorestframework==3.11.0
 joblib==0.15.1
 numpy==1.18.4
 pytz==2020.1
-scikit-learn==0.23.0
+scikit-learn==0.22.2.post1
 scipy==1.4.1
 sqlparse==0.3.1
 threadpoolctl==2.0.0
